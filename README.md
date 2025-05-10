@@ -26,7 +26,11 @@ This is a Telegram bot that provides real-time **air quality** and basic **weath
 - OpenCage Geocoding API
 
 ---
+Output:
+<br>
+![image](https://github.com/user-attachments/assets/cb0979f7-e791-4f6d-941a-29f504da9a4f)
 
+<br>
 ## 📦 Installation
 
 1. **Clone the repository**:
