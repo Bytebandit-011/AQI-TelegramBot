@@ -24,6 +24,7 @@ This is a Telegram bot that provides real-time **air quality** and basic **weath
 - Requests (for HTTP calls)
 - OpenWeatherMap API
 - OpenCage Geocoding API
+- Deployed on: PythonAnywhere.com
 
 ---
 Output:
